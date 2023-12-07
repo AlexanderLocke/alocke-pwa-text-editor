@@ -13,7 +13,7 @@
     "heroku-postbuild": "npm run build"
   },
   "keywords": [],
-  "author": "Zel Start",
+  "author": "Alexander Locke",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
